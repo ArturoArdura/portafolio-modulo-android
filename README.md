@@ -44,5 +44,5 @@ Cada aplicación tiene su propio README con detalles técnicos, capturas y mi ex
 
 ---
 
-Autor: **Luis Ardura García**  
+Autor: **Arturo Ardura Palacios**  
 Fecha: Octubre 2025
