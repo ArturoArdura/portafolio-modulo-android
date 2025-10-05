@@ -1,0 +1,5 @@
+aahl.actividadtres.test.app-core-1.7.0-0 C:\Users\END USER\.gradle\caches\8.13\transforms\02c32e974875e1a5a183bb290b6ae00f\transformed\core-1.7.0\res
+aahl.actividadtres.test.app-androidTest-1 C:\Users\END USER\Desktop\tareas arturo\6to semestre\apps android tareas\Dev_Apps_Android\ACT03\app\build\generated\res\resValues\androidTest\debug
+aahl.actividadtres.test.app-mergeDebugAndroidTestResources-2 C:\Users\END USER\Desktop\tareas arturo\6to semestre\apps android tareas\Dev_Apps_Android\ACT03\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+aahl.actividadtres.test.app-mergeDebugAndroidTestResources-3 C:\Users\END USER\Desktop\tareas arturo\6to semestre\apps android tareas\Dev_Apps_Android\ACT03\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+aahl.actividadtres.test.app-debugAndroidTest-4 C:\Users\END USER\Desktop\tareas arturo\6to semestre\apps android tareas\Dev_Apps_Android\ACT03\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
